@@ -1,4 +1,4 @@
-# to-do-list web app.
+# A to-do list web app, where users can add tasks in different categories.
 
 ## Features
 
